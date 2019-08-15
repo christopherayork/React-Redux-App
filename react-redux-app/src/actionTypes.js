@@ -1,0 +1,3 @@
+export const GET_LAUNCH = 'GET_LAUNCH';
+export const GET_LAUNCH_SUCCESS = 'GET_LAUNCH_SUCCESS';
+export const GET_LAUNCH_FAIL = 'GET_LAUNCH_FAIL';
